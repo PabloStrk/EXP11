@@ -9,6 +9,7 @@
 body{
 
 	background-color: green;
+
 }
 
 nav {
@@ -114,12 +115,13 @@ nav {
 	border-radius: 40px;
 	padding-top: 20px;
     padding-bottom: 20px;	
+    z-index: 100;
 }
 /*hola*/
 
 .interior {
 	position: relative;
-	z-index: 100;
+	
 	color: white;
 }
 
